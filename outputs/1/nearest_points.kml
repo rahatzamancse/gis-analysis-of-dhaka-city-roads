@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Document id="nearest_points">
+      <name>nearest_points</name>
+      <Placemark id="nearest_points.1">
+        <Point>
+          <coordinates>
+            90.3638329761564,23.8341450059456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="nearest_points.2">
+        <Point>
+          <coordinates>
+            90.37836005878,23.7569281610662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

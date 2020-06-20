@@ -1,0 +1,1 @@
+http://geodash.gov.bd:80/geoserver/wfs?format_options=charset%3AUTF-8&typename=geonode%3Aosm_transport_points&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature&access_token=573263b8fa9c11e99cc2286ed488c993&srsName=EPSG%3A4326
